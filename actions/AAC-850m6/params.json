@@ -1,0 +1,14 @@
+{
+    "category": "plugins",
+    "display": "Reset data of an input",
+    "fields": {
+        "AAD": {
+            "caption": "Input HTML ID",
+            "doc": "The HTML ID of the element you want to reset the data.",
+            "editor": "StaticText",
+            "name": "input_id",
+            "rank": 0
+        }
+    },
+    "type": "client_side"
+}

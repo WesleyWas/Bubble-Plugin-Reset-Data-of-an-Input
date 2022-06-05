@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "media",
+        "2": "technical",
+        "3": "productivity",
+        "4": "data (things)"
+    },
+    "demo_page": "https://reset-data-of-input.bubbleapps.io/version-test",
+    "description": "Reset data of a specific input by specifying its HTML ID.\nSimple workflow action \"Reset data of an input\".\nVery easy to use.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1654441377927x832358013719132700/reset.svg",
+    "license": "open_source",
+    "link": "https://bubble.io/page?name=index&id=reset-data-of-input&tab=tabs-1",
+    "name": "Reset Data of an Input",
+    "plugin_instructions": "===== SETUP =====\n\n1. Enable option to use HTML IDs in Settings -> Expose the option to add ID attribute to HTML elements\n\n2. Specify a unique ID in your input\n\n3. Call the action \"Reset data of an input\" in the \"Workflow\" tab"
+}
