@@ -8,6 +8,15 @@
             "editor": "StaticText",
             "name": "input_id",
             "rank": 0
+        },
+        "AAG": {
+            "caption": "Input Type",
+            "default_val": "Input",
+            "doc": "Select the type of your input",
+            "editor": "Dropdown",
+            "name": "input_type",
+            "options": "Input/Multiline Input,Searchbox,Dropdown",
+            "rank": 1
         }
     },
     "type": "client_side"

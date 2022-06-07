@@ -7,7 +7,7 @@
         "4": "data (things)"
     },
     "demo_page": "https://reset-data-of-input.bubbleapps.io/version-test",
-    "description": "Reset data of a specific input by specifying its HTML ID.\nSimple workflow action \"Reset data of an input\".\nVery easy to use.",
+    "description": "Reset data of a specific input by specifying its HTML ID.\nAlso works with Search Boxes.\nSimple workflow action \"Reset data of an input\".\nVery easy to use.",
     "image": "//s3.amazonaws.com/appforest_uf/f1654441377927x832358013719132700/reset.svg",
     "license": "open_source",
     "link": "https://bubble.io/page?name=index&id=reset-data-of-input&tab=tabs-1",
